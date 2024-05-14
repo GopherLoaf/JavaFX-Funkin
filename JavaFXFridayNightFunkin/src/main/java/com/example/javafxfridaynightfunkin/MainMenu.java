@@ -48,13 +48,13 @@ public class MainMenu {
         page2Choices[3] = new Label("Dadbattle");
         page2Choices[3].setFont(Font.loadFont(Main.class.getResource("") + "Fonts/Baefont_normal-Regular_V1.ttf", 50));
 
-        songInfo[0] = new Label("Kawai Sprite\nCharted by: ninjamuffin99\nTutorial - Hard\nScore: ");
+        songInfo[0] = new Label("Kawai Sprite\nCharted by: ninjamuffin99\nTutorial - Hard");
         songInfo[0].setFont(Font.loadFont(Main.class.getResource("") + "Fonts/Baefont_normal-Regular_V1.ttf", 50));
-        songInfo[1] = new Label("Kawai Sprite\nCharted by: ninjamuffin99\nBopeebo - Hard\nScore: ");
+        songInfo[1] = new Label("Kawai Sprite\nCharted by: ninjamuffin99\nBopeebo - Hard");
         songInfo[1].setFont(Font.loadFont(Main.class.getResource("") + "Fonts/Baefont_normal-Regular_V1.ttf", 50));
-        songInfo[2] = new Label("Kawai Sprite\nCharted by: ninjamuffin99\nFresh - Hard\nScore: ");
+        songInfo[2] = new Label("Kawai Sprite\nCharted by: ninjamuffin99\nFresh - Hard");
         songInfo[2].setFont(Font.loadFont(Main.class.getResource("") + "Fonts/Baefont_normal-Regular_V1.ttf", 50));
-        songInfo[3] = new Label("Kawai Sprite\nCharted by: ninjamuffin99\nDadbattle - Hard\nScore: ");
+        songInfo[3] = new Label("Kawai Sprite\nCharted by: ninjamuffin99\nDadbattle - Hard");
         songInfo[3].setFont(Font.loadFont(Main.class.getResource("") + "Fonts/Baefont_normal-Regular_V1.ttf", 50));
 
         Group page0 = new Group();
